@@ -1,0 +1,16 @@
+C:\Users\Rose\source\repos\ProjetoLogin\bin\Debug\ProjetoLogin.exe.config
+C:\Users\Rose\source\repos\ProjetoLogin\bin\Debug\ProjetoLogin.exe
+C:\Users\Rose\source\repos\ProjetoLogin\bin\Debug\ProjetoLogin.pdb
+C:\Users\Rose\source\repos\ProjetoLogin\obj\Debug\ProjetoLogin.Apresentacao.BemVindo.resources
+C:\Users\Rose\source\repos\ProjetoLogin\obj\Debug\ProjetoLogin.Apresentacao.Cadastrar.resources
+C:\Users\Rose\source\repos\ProjetoLogin\obj\Debug\ProjetoLogin.Form1.resources
+C:\Users\Rose\source\repos\ProjetoLogin\obj\Debug\ProjetoLogin.Properties.Resources.resources
+C:\Users\Rose\source\repos\ProjetoLogin\obj\Debug\ProjetoLogin.csproj.GenerateResource.cache
+C:\Users\Rose\source\repos\ProjetoLogin\obj\Debug\ProjetoLogin.csproj.CoreCompileInputs.cache
+C:\Users\Rose\source\repos\ProjetoLogin\obj\Debug\ProjetoLogin.exe
+C:\Users\Rose\source\repos\ProjetoLogin\obj\Debug\ProjetoLogin.pdb
+C:\Users\Rose\source\repos\ProjetoLogin\obj\Debug\ProjetoLogin.csproj.AssemblyReference.cache
+C:\Users\Rose\source\repos\ProjetoLogin\bin\Debug\ProjetoLogin.exe.manifest
+C:\Users\Rose\source\repos\ProjetoLogin\bin\Debug\ProjetoLogin.application
+C:\Users\Rose\source\repos\ProjetoLogin\obj\Debug\ProjetoLogin.exe.manifest
+C:\Users\Rose\source\repos\ProjetoLogin\obj\Debug\ProjetoLogin.application
